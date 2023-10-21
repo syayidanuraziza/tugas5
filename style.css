@@ -1,0 +1,158 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+#judul{
+    background-color: blueviolet;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 3px dotted wheat;
+    margin-bottom: 50px;
+}
+
+.media img{
+    height: 100px;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.content {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 18px;
+}
+
+.content p{
+    margin-top: 40px;
+}
+
+.one {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.one p{
+    margin-top: 30px;
+}
+
+.one img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.two {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.two p{
+    margin-top: 30px;
+}
+
+.two img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.three {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.three p{
+    margin-top: 30px;
+}
+
+.three img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.four {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.four p{
+    margin-top: 30px;
+}
+
+.four img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.five {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.five p{
+    margin-top: 30px;
+}
+
+.five img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.six {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.six p{
+    margin-top: 30px;
+}
+
+.six img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+.seven {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+
+.seven p{
+    margin-top: 30px;
+}
+
+.seven img{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+    right: 450px;
+}
+
+#form {
+    padding: 20px;
+    background-color: rgb(12, 15, 17);
+    color: aliceblue;
+    border: 3px solid rgb(163, 146, 238);
+  }
