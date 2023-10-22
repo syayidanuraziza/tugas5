@@ -6,5 +6,4 @@
 ![alt text](https://github.com/syayidanuraziza/tugas5/blob/main/Tiktok.jpeg?raw=true)
 ![alt text](https://github.com/syayidanuraziza/tugas5/blob/main/Telegram.jpeg?raw=true)
 ![alt text](https://github.com/syayidanuraziza/tugas5/blob/main/Twitter.jpeg?raw=true)
-![alt text](https://github.com/syayidanuraziza/tugas5/blob/main/App%20X.jpeg?raw=true)
 ![alt text](https://github.com/syayidanuraziza/tugas5/blob/main/FB%20messenger.jpeg?raw=true)
